@@ -1,0 +1,4 @@
+ctd.nc contains 2 cubes:
+------------------------
+0: sea_water_practical_salinity / (1)  (sea_water_pressure_due_to_sea_water: 500)
+1: sea_water_temperature / (K)         (sea_water_pressure_due_to_sea_water: 500)

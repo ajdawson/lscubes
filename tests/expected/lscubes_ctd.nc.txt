@@ -1,0 +1,22 @@
+ctd.nc contains 2 cubes:
+------------------------
+0: sea_water_practical_salinity / (1)  (sea_water_pressure_due_to_sea_water: 500)
+1: sea_water_temperature / (K)         (sea_water_pressure_due_to_sea_water: 500)
+
+sea_water_practical_salinity / (1)  (sea_water_pressure_due_to_sea_water: 500)
+     Dimension coordinates:
+          sea_water_pressure_due_to_sea_water                           x
+     Scalar coordinates:
+          latitude: -26.4058 degrees
+          longitude: 154.949 degrees
+     Attributes:
+          Conventions: CF-1.5
+
+sea_water_temperature / (K)         (sea_water_pressure_due_to_sea_water: 500)
+     Dimension coordinates:
+          sea_water_pressure_due_to_sea_water                           x
+     Scalar coordinates:
+          latitude: -26.4058 degrees
+          longitude: 154.949 degrees
+     Attributes:
+          Conventions: CF-1.5
